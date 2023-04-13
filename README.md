@@ -1,4 +1,4 @@
-# Takanobu Nomura - Homepage
+# TNomura - Homepage
 
 自分のポートフォリオサイトです。
 
